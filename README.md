@@ -44,11 +44,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sguzman06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sguzman06&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sguzman06&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=sguzman06&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sguzman06&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sguzman06&layout=compact&theme=tokyonight)
 
 </div>
 
