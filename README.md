@@ -46,9 +46,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sguzman06&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sguzman06&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sguzman06&layout=compact&theme=tokyonight)
 
 </div>
 
